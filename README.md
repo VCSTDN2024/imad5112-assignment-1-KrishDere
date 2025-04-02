@@ -1,4 +1,4 @@
----
+![home page](https://github.com/user-attachments/assets/8e62a977-53ff-4f70-b9a2-25249ca79b41)---
 
 ### **README Structure for Android App Development Assignment**
 
@@ -144,8 +144,8 @@ These enhancements would improve the app’s usability and make it even more ver
 -------------------
 
 
-- **Figure 1**: ![home page](https://github.com/user-attachments/assets/9752f525-1cf1-496f-976c-b4acf334bfba)
+- **Figure 1**: ![home page](https://github.com/user-attachments/assets/8fb904df-5727-4847-a139-b6b4414ed670)
 
-- **Figure 2**: ![Uploading user input and the suggestion.png…]()
+- **Figure 2**: ![user input and the suggestion](https://github.com/user-attachments/assets/fef1cbbb-8d53-47ad-aea8-a9238fff3eaa)
 
 ```

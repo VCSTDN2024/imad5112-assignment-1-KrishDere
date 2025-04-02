@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="timeOfDayInput" type="id" />
+    <item name="mealSuggestionText" type="id" />
+    <item name="suggestMealButton" type="id" />
+    <item name="resetButton" type="id" />
+    <item name="exitButton" type="id" />
+</resources>

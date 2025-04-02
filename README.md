@@ -18,11 +18,13 @@ Start with a header section that includes the following basic details:
 - **Subject**: [IMAD 5112]
 
 ## Links
-- **GitHub Repository**: [https://github.com/KrishDere/Instant-Meal-Suggestion-App]
+- **GitHub Repository**: [https://github.com/VCSTDN2024/imad5112-assignment-1-KrishDere]
 - **YouTube Video**: [https://youtu.be/Cc5Z0Ka2hoE]
 ```
 
+-----------------------
 2. Project Overview
+-----------------------
 
 The **[Instant Meal Suggestion App]** is a mobile application developed as part of an assignment in the [HMAW0501] subject. This application was created using **Kotlin** and **Android Studio**. The app's primary purpose is to [provide meal suggestion to the user according to the time of day, the app is developed to make food choice easy for the individual so they can have right food according to the time of day].
 

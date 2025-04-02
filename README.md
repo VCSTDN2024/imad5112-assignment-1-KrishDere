@@ -1,4 +1,3 @@
-![home page](https://github.com/user-attachments/assets/8e62a977-53ff-4f70-b9a2-25249ca79b41)---
 
 ### **README Structure for Android App Development Assignment**
 

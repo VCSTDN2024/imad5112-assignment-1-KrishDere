@@ -26,18 +26,20 @@ Start with a header section that includes the following basic details:
 2. Project Overview
 -----------------------
 
-The **[Instant Meal Suggestion App]** is a mobile application developed as part of an assignment in the [HMAW0501] subject. This application was created using **Kotlin** and **Android Studio**. The app's primary purpose is to [provide meal suggestion to the user according to the time of day, the app is developed to make food choice easy for the individual so they can have right food according to the time of day].
+The **[Instant Meal Suggestion App]** is a mobile application developed as part of an assignment in the [HMAW0501] subject. This application was created using **Kotlin** and **Android Studio**. The app's primary 
+ purpose is to [provide meal suggestion to the user according to the time of day, the app is developed to make food choice easy for the individual so they can have right food according to the time of day].
 
 The app was developed to meet the requirements of the assignment, which includes creating a functional mobile app and utilizing GitHub for version control and CI/CD automation using GitHub Actions.
 ```
 
 3. App Purpose and Features
-
+---------------------
 ### Purpose:
 The main goal of this app is to [provide right meal suggestion to the users so that they can maintain a healty lifestyle by eating specific healty meal suggested by the app]. 
 
 ### Key Features:
-- Feature 1: ["the app has a reset button ,in case if the user enters wrong day of time they don`t have to restart the app they can just use the reset button to clear the text and the provided meal suggestion. after that user can enter correct day of time"]
+- Feature 1: ["the app has a reset button ,in case if the user enters wrong day of time they don`t have to restart the app they can just use the reset button to clear the text and the provided meal suggestion. 
+              after that user can enter correct day of time"]
 - Feature 2: [if a invalid time of day is input the app does not crash it gives a error and and asks the user to input correct time of day"]
 - Feature 3: ["on every meal suggestion the app provides two meal options to the users so that they can select the meal according to their personal prefrence"]
 
@@ -101,8 +103,10 @@ A video showcasing the app's functionality can be viewed here: [https://youtu.be
 ---------------------------
 During the development of this project, I encountered several challenges, including:
 
-1. **Challenge 1**: [i have used a LinearLayout in xml and adding exit and reset buttion in constraintlayout was challenging because it was giving majour errors making the buttions disappear from app and unable to function in a constraintlayout"]
-   - **Solution**: [ i tried to change the whole layout again but it still didn`t work so i researched deeply on the issue and found that there was some components missing which was not allowing the buttions to work in constraintlayout after adding the missing components the buttons started to work perfectly and the app was woking with functional buttions]
+1. **Challenge 1**: [i have used a LinearLayout in xml and adding exit and reset buttion in constraintlayout was challenging because it was giving majour errors making the buttions disappear from app and unable 
+                     to function in a constraintlayout"]
+   - **Solution**: [ i tried to change the whole layout again but it still didn`t work so i researched deeply on the issue and found that there was some components missing which was not allowing the buttions to 
+                    work in constraintlayout after adding the missing components the buttons started to work perfectly and the app was woking with functional buttions]
    
 2. **Challenge 2**: [adding the background picture was challenging because if a dark colour backgroud is added it use to make the text difficult to read]
    - **Solution**: [after trying with 4 pictures i finally found the right background which was simple , in a light colour , and resolving the problem of text not being visible with background image]
@@ -145,9 +149,3 @@ These enhancements would improve the app’s usability and make it even more ver
 - **Figure 2**: ![Uploading user input and the suggestion.png…]()
 
 ```
-
-Why:
-----
-- This section provides a clear reference to all the images included in the document, which improves readability and helps the lecturer follow along with the visuals.
-
----s
